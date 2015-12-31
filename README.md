@@ -1,0 +1,2 @@
+# minimalValidWebPage
+Wix Academy exercise
